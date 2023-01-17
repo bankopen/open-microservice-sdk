@@ -12,7 +12,6 @@ use Bankopen\OpenMicroserviceSdk\Utility\RemoteRequest;
 class AuditService
 {
     /**
-     * https://github.com/Architectural-Documents/audit-log/blob/main/000-audit-log-service.md#data-definition-m---mandatory-o---optional
      * @var array
      */
     private array $paramKeys = [

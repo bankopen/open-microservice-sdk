@@ -8,8 +8,6 @@ use GuzzleHttp\Exception\RequestException;
 
 /**
  * class GuzzleRequestUtility
- *
- * @task on monday.com @link https://open550570.monday.com/boards/2239105606/pulses/2267872526
  */
 class RemoteRequest
 {
