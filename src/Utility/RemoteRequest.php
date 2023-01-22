@@ -154,7 +154,7 @@ class RemoteRequest
      * @return mixed
      * @throws \Exception
      */
-    private function clientRequest($method): mixed
+    private function clientRequest($method)
     {
         $client = new Client();
 
